@@ -1,0 +1,51 @@
+Transaction ID,Month,Year,Invoice Number,Region,Patient Name,State,City,Department,Treatment Type,Cost,Profit,Discount,Net Cost,Net Revenue,Insurance Coverage
+IN-2021-100000,March,2021,HC-50918,South,Theresa Rubio,Tamil Nadu,Chennai,Immunology,Allergy Panel,1751,198.88,0,1751,198.88,1552.12
+IN-2022-100001,July,2022,HC-32479,Central,Lydia Parrish,Chhattisgarh,Raipur,Immunology,Allergy Test,3368,635.19,0,3368,635.19,2732.81
+IN-2021-100002,May,2021,HC-84028,North,Dr. Brett Bradley DVM,Chandigarh (UT),Chandigarh,Immunology,Allergy Test,2603,596.27,0,2603,596.27,2006.73
+IN-2022-100003,September,2022,HC-11562,East,Brian Barrett,West Bengal,Kolkata,Cardiology,ECG,8332,1175.43,0,8332,1175.43,7156.57
+IN-2021-100004,May,2021,HC-72150,North,Thomas Lopez,Rajasthan,Jaipur,Neurology,Nerve Conduction Study,9562,2654.66,0,9562,2654.66,6907.34
+IN-2023-100005,September,2023,HC-90859,East,Jonathan Murray,Odisha,Bhubaneswar,Immunology,Allergy Panel,9308,1794.99,0,9308,1794.99,7513.01
+IN-2022-100006,November,2022,HC-60195,Central,Steven Reeves,Madhya Pradesh,Bhopal,Neurology,Nerve Conduction Study,4621,494.07,0,4621,494.07,4126.93
+IN-2022-100007,March,2022,HC-79506,West,Jennifer Herring,Maharashtra,Mumbai,Neurology,MRI Scan,1767,318.58,0,1767,318.58,1448.42
+IN-2023-100008,May,2023,HC-58082,North,Summer Smith,Rajasthan,Jaipur,Immunology,Allergy Test,3043,478.69,0,3043,478.69,2564.31
+IN-2022-100009,September,2022,HC-20760,Central,Derek Anderson,Chhattisgarh,Raipur,Dermatology,Skin Biopsy,4688,911.65,0,4688,911.65,3776.35
+IN-2021-100010,January,2021,HC-27426,North,Stephen Mahoney,Chandigarh (UT),Chandigarh,Cardiology,Stress Test,7817,1080.95,0,7817,1080.95,6736.05
+IN-2021-100011,January,2021,HC-47886,East,Thomas Price,West Bengal,Kolkata,Orthopaedics,Fracture Treatment,4924,1000.59,0,4924,1000.59,3923.41
+IN-2022-100012,September,2022,HC-17682,East,David Griffin,Odisha,Bhubaneswar,Cardiology,Stress Test,8757,1229.09,0,8757,1229.09,7527.91
+IN-2020-100013,March,2020,HC-62111,East,David Fisher,Bihar,Patna,Dermatology,Skin Biopsy,6347,1720.05,0,6347,1720.05,4626.95
+IN-2023-100014,January,2023,HC-18938,West,Brett Baxter,Gujarat,Ahmedabad,Neurology,Nerve Conduction Study,9689,1475.99,0,9689,1475.99,8213.01
+IN-2023-100015,March,2023,HC-39775,West,Dominic Pugh,Maharashtra,Mumbai,Dermatology,Laser Therapy,3657,765.83,0,3657,765.83,2891.17
+IN-2020-100016,January,2020,HC-10224,East,Elizabeth Martin,Odisha,Bhubaneswar,Immunology,Allergy Panel,9796,1297.65,0,9796,1297.65,8498.35
+IN-2023-100017,November,2023,HC-28901,South,Stephen Bennett,Telangana,Hyderabad,Orthopaedics,X-Ray,9518,2012.73,0,9518,2012.73,7505.27
+IN-2020-100018,March,2020,HC-41184,East,Becky White,Bihar,Patna,Cardiology,Stress Test,9018,1947.04,0,9018,1947.04,7070.96
+IN-2023-100019,September,2023,HC-80709,Central,Michael Jackson,Maharashtra,Nagpur,Neurology,Nerve Conduction Study,8591,1806.33,0,8591,1806.33,6784.67
+IN-2023-100020,November,2023,HC-69736,South,Katherine Morris,Tamil Nadu,Chennai,Dermatology,Skin Biopsy,7264,968.7,0,7264,968.7,6295.3
+IN-2023-100021,July,2023,HC-77255,East,Robert Keller,West Bengal,Kolkata,Dermatology,Laser Therapy,9338,953.61,0,9338,953.61,8384.39
+IN-2023-100022,September,2023,HC-96021,North,Vanessa Estes,Delhi (NCT),Delhi,Dermatology,Cryotherapy,2071,568.86,0,2071,568.86,1502.14
+IN-2021-100023,January,2021,HC-40443,West,Cindy Lee,Maharashtra,Pune,Dermatology,Cryotherapy,1535,408.5,0,1535,408.5,1126.5
+IN-2022-100024,January,2022,HC-26351,Central,Marcus Clark,Maharashtra,Nagpur,Dermatology,Skin Biopsy,2180,245.15,0,2180,245.15,1934.85
+IN-2023-100025,November,2023,HC-97962,North,Dr. Jeffrey Reed,Chandigarh (UT),Chandigarh,Orthopaedics,Fracture Treatment,2970,582.55,0,2970,582.55,2387.45
+IN-2021-100026,May,2021,HC-85545,South,Lindsey Roberts,Tamil Nadu,Chennai,Orthopaedics,Fracture Treatment,8561,881.79,0,8561,881.79,7679.21
+IN-2022-100027,January,2022,HC-18765,South,Nicole Davis,Karnataka,Bangalore,Immunology,Allergy Panel,7338,1845.75,0,7338,1845.75,5492.25
+IN-2020-100028,July,2020,HC-87871,West,Jonathan Clark,Gujarat,Ahmedabad,Immunology,Immunotherapy,5828,1518.41,0,5828,1518.41,4309.59
+IN-2021-100029,May,2021,HC-67397,West,Emily Brown,Maharashtra,Pune,Immunology,Immunotherapy,7495,1323.74,0,7495,1323.74,6171.26
+IN-2023-100030,January,2023,HC-11574,North,Anthony Franklin,Chandigarh (UT),Chandigarh,Cardiology,Echocardiogram,5526,1335.16,0,5526,1335.16,4190.84
+IN-2022-100031,July,2022,HC-72201,West,Kevin Bird,Maharashtra,Mumbai,Dermatology,Laser Therapy,8688,2291.1,0,8688,2291.1,6396.9
+IN-2021-100032,May,2021,HC-43132,Central,James Hanson,Chhattisgarh,Raipur,Dermatology,Cryotherapy,3785,1078.11,0,3785,1078.11,2706.89
+IN-2022-100033,July,2022,HC-71038,North,Emily Nguyen,Delhi (NCT),Delhi,Cardiology,Echocardiogram,4333,983.64,0,4333,983.64,3349.36
+IN-2022-100034,July,2022,HC-19643,West,Lori Hoover,Gujarat,Ahmedabad,Orthopaedics,X-Ray,6575,1566.73,0,6575,1566.73,5008.27
+IN-2021-100035,January,2021,HC-70789,South,Antonio Medina,Telangana,Hyderabad,Orthopaedics,Physiotherapy,7531,1237.22,0,7531,1237.22,6293.78
+IN-2022-100036,November,2022,HC-80257,South,Molly Sherman,Tamil Nadu,Chennai,Cardiology,ECG,6567,1370.14,0,6567,1370.14,5196.86
+IN-2020-100037,November,2020,HC-92516,South,Penny Green,Karnataka,Bangalore,Dermatology,Cryotherapy,1140,153.06,0,1140,153.06,986.94
+IN-2020-100038,July,2020,HC-89024,Central,Michael Johnson,Madhya Pradesh,Bhopal,Orthopaedics,Fracture Treatment,3166,416.9,0,3166,416.9,2749.1
+IN-2021-100039,July,2021,HC-33282,East,Jennifer Townsend,West Bengal,Kolkata,Orthopaedics,X-Ray,1386,294.84,0,1386,294.84,1091.16
+IN-2020-100040,July,2020,HC-70866,East,Michael Bennett,West Bengal,Kolkata,Immunology,Immunotherapy,5293,566.85,0,5293,566.85,4726.15
+IN-2021-100041,January,2021,HC-37436,West,Christopher Hernandez,Gujarat,Ahmedabad,Dermatology,Cryotherapy,1001,279.14,0,1001,279.14,721.86
+IN-2022-100042,March,2022,HC-52387,South,Dr. Ronald Reid,Karnataka,Bangalore,Dermatology,Skin Biopsy,3394,671.03,0,3394,671.03,2722.97
+IN-2023-100043,January,2023,HC-69612,South,Pamela Perez,Karnataka,Bangalore,Orthopaedics,Fracture Treatment,2430,396.02,0,2430,396.02,2033.98
+IN-2022-100044,September,2022,HC-90498,East,Anthony Robertson,West Bengal,Kolkata,Cardiology,ECG,3870,1135.82,0,3870,1135.82,2734.18
+IN-2020-100045,September,2020,HC-46101,East,Dylan Cruz,Bihar,Patna,Immunology,Immunotherapy,4892,1384.31,0,4892,1384.31,3507.69
+IN-2021-100046,November,2021,HC-56284,North,Natasha Kelly,Rajasthan,Jaipur,Orthopaedics,Physiotherapy,6240,833.24,0,6240,833.24,5406.76
+IN-2021-100047,March,2021,HC-52046,South,Jessica Kelley,Telangana,Hyderabad,Dermatology,Cryotherapy,7770,1713.58,0,7770,1713.58,6056.42
+IN-2021-100048,November,2021,HC-46450,South,James Moore,Karnataka,Bangalore,Orthopaedics,Physiotherapy,1461,235.07,0,1461,235.07,1225.93
+IN-2023-100049,July,2023,HC-55402,West,Juan Vang,Maharashtra,Mumbai,Orthopaedics,Fracture Treatment,1770,426.54,0,1770,426.54,1343.46
