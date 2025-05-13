@@ -1,4 +1,4 @@
-Transaction ID,Month,Year,Invoice Number,Region,Patient Name,State,City,Department,Treatment Type,Cost,Profit,Discount,Net Cost,Net Revenue,Insurance Coverage
+TransactionID,Month,Year,InvoiceNumber,Region,PatientName,State,City,Department,TreatmentType,Cost,Profit,Discount,NetCost,NetRevenue,InsuranceCoverage
 IN-2021-100000,March,2021,HC-50918,South,Theresa Rubio,Tamil Nadu,Chennai,Immunology,Allergy Panel,1751,198.88,0,1751,198.88,1552.12
 IN-2022-100001,July,2022,HC-32479,Central,Lydia Parrish,Chhattisgarh,Raipur,Immunology,Allergy Test,3368,635.19,0,3368,635.19,2732.81
 IN-2021-100002,May,2021,HC-84028,North,Dr. Brett Bradley DVM,Chandigarh (UT),Chandigarh,Immunology,Allergy Test,2603,596.27,0,2603,596.27,2006.73
